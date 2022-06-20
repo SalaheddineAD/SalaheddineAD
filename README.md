@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Salah-Eddine it Daoud
-  I'm a fifth year data scientist student looking for a 6-months internship 
+- 👋 Hi, I’m Salah-Eddine Ait Daoud
+  Data Scientist
 - 👀 I’m interested in AI, IOT and Data Science
 - 📫 you can DM me on Linkedin https://www.linkedin.com/in/salah-eddine-ait-daoud-491664201/
 
