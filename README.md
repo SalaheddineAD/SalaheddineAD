@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Salah-Eddine Ait Daoud
-  Data Scientist
-- 👀 I’m interested in AI, IOT and Data Science
+- 👋 Hi, I’m Salah-Eddine Ait Daoud, Data Scientist
+- 👀 I’m interested in AI and machine learning
 - 📫 you can DM me on Linkedin https://www.linkedin.com/in/salah-eddine-ait-daoud-491664201/
 
 <!---
