@@ -16,10 +16,10 @@
   <p align="center">
     <a href="https://www.linkedin.com/in/salah-eddine-ait-daoud/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a>
     <a href="mailto:salaheddineaitdaoud@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a>
-    <a href="https://mydatalchemist.com"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=About.me&logoColor=white" height=23></a>
+    <a href="https://salahdaoud.com"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=About.me&logoColor=white" height=23></a>
     <a href="https://leetcode.com/salaheddineaitdaoud"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" height=23></a>
   </p>
-  <a href = "https://mydatalchemist.com">
+  <a href = "https://salahdaoud.com">
     <p><b>Click here to explore my professional work</b></p>
     <img src = "portfolio_website_picture.png" alt = "portfolio website screenshot" width = "60%">
   </a>
