@@ -11,7 +11,7 @@
 <h3 align="center">Full-Stack Data Scientist driving multimillion-dollar impacts</h3>
 <div align = "center">
   <p>
-  Currently building powerful Large Language Models (LLMs) and learning more about MLOps and AWS SageMaker
+  I currently work as a Senior Machine Learning engineer consultant at Toyota.
   </p>
   <p align="center">
     <a href="https://www.linkedin.com/in/salah-eddine-ait-daoud/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a>
