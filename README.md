@@ -1,54 +1,68 @@
-<img align ="center" src = "github header_without pic.png" alt = "githubHeader">
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salaheddinead/salaheddinead" alt="salaheddinead">    
+# Salah Daoud
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=This+is+Salah+;Nice+to+meet+you+%F0%9F%91%8B&center=true&size=30">
-  </a>
-</h1>
+### Machine Learning Engineer · Forecasting, MLOps & Applied AI
 
+I build ML and AI systems that connect model performance to business decisions—from forecasting workflows and production monitoring to retrieval systems and executive decision intelligence.
 
-<h3 align="center">Full-Stack Data Scientist driving multimillion-dollar impacts</h3>
-<div align = "center">
-  <p>
-  I currently work as a Senior Machine Learning engineer consultant at Toyota.
-  </p>
-  <p align="center">
-    <a href="https://www.linkedin.com/in/salah-eddine-ait-daoud/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a>
-    <a href="mailto:salaheddineaitdaoud@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a>
-    <a href="https://salahdaoud.com"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=About.me&logoColor=white" height=23></a>
-    <a href="https://leetcode.com/salaheddineaitdaoud"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" height=23></a>
-  </p>
-  <a href = "https://salahdaoud.com">
-    <p><b>Click here to explore my professional work</b></p>
-    <img src = "portfolio_website_picture.png" alt = "portfolio website screenshot" width = "60%">
-  </a>
-</div>
-<h2>Projects</h2>
+Currently **Principal Data Scientist at Ascentt, supporting Toyota**. Based in Dallas, TX.
 
-Here's a selection of recent open-source projects I've contributed to:
+[LinkedIn](https://www.linkedin.com/in/salah-ad/) · [Email](mailto:salaheddineaitdaoud@gmail.com) · [Portfolio](https://salahdaoud.com)
 
-- <b>Managed a user adoption analysis project, determining what drives user engagement. </b>
-[View Project](https://github.com/SalaheddineAD/user-adoption-analysis)
+---
 
-- <b>A microservices-based platform for dynamic, real-time data participation and analysis.</b>
-[View Project](https://github.com/SalaheddineAD/microservices-based-data-participation-and-analysis)
+## Selected impact
 
-- <b>Developed an NLP-based chatbot to interact with users and provide instant responses.</b>
-[View Project](https://github.com/SalaheddineAD/chatbot-nlp)
+| Area | My contribution |
+| :--- | :--- |
+| **ML at scale** | Developed and scaled reporting and validation supporting **100+ Toyota and Lexus production ML models** and **6B monthly predictions**; reduced processing runtime by **60%** through SQL and Spark optimization and workflow redesign. |
+| **Forecasting reliability** | Diagnosed production data drift and forecasting failures, reducing **12-month vehicle-series MAPE from 65% to 3.6%**. Built reusable backtesting, evaluation, and model-selection workflows for heterogeneous time series. |
+| **Manufacturing decisions** | Architected and delivered executive decision intelligence across **4 EV battery manufacturing lines**, integrating financial and operational KPIs, cross-source analytics, and executive and senior-management views. |
 
-- <b>Created A data consumption forecasting project using LSTM and GRU.</b>
-[View Project](https://github.com/SalaheddineAD/energy-consumption-forecasting)
+## Engineering focus
 
-- <b>A data pipeline analyzing LinkedIn job postings using Apache Kafka, Spark, deployed on AWS.</b>
-[View Project](https://github.com/SalaheddineAD/job-analytics)
+- **Forecasting systems:** multi-cutoff backtesting, multi-horizon evaluation, hyperparameter optimization, and model selection across global markets.
+- **Reliable ML operations:** orchestration, experiment tracking, production validation, monitoring, and drift diagnosis.
+- **Applied AI:** document retrieval, reranking, source attribution, LLM evaluation, and contextual business analysis.
+- **Decision systems:** mathematical optimization, human-in-the-loop automation, and analytics that help teams act.
 
+## Selected personal projects
 
-<h2 align="left">Languages and Tools:</h2>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### AWS Serverless RAG Platform
 
-<p align="center">
-  <img align="left"src="https://github-readme-stats.vercel.app/api/top-langs?username=salaheddinead&show_icons=true&locale=en&layout=compact" alt="salaheddinead" />
- 
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=salaheddinead&" alt="salaheddinead" />
-</p>
+An end-to-end multi-document retrieval-augmented generation system over **500+ pages**, using **AWS Bedrock, OpenSearch Serverless, Lambda, S3, and Step Functions**.
+
+- Combined hybrid retrieval, reranking, metadata filtering, and source attribution.
+- Evaluated retrieval and answers on a golden evaluation set: **92% Recall@5**, **0.85 MRR**, **90%+ faithfulness**, and **90%+ answer relevance**.
+
+<!-- Add the direct repository link here when its public URL is confirmed. -->
+
+### ML Pipeline & Monitoring for Loan Eligibility
+
+A model pipeline with **model, data, and concept drift monitoring**, orchestrated with **Docker and Airflow**, focused on identifying changes that affect production reliability.
+
+<!-- Add the direct repository link here when its public URL is confirmed. -->
+
+### More code
+
+| Project | Focus |
+| :--- | :--- |
+| [Streaming Job Analytics](https://github.com/SalaheddineAD/job-analytics) | A job-posting data pipeline using Kafka and Spark, deployed on AWS. |
+| [Energy Consumption Forecasting](https://github.com/SalaheddineAD/energy-consumption-forecasting) | Time-series forecasting using LSTM and GRU models. |
+| [Microservices for Data Participation & Analysis](https://github.com/SalaheddineAD/microservices-based-data-participation-and-analysis) | A microservices-based platform for real-time data participation and analysis. |
+
+## Core stack
+
+**Languages & data:** Python · SQL · PySpark · Scala  
+**ML & optimization:** PyTorch · scikit-learn · XGBoost · LightGBM · Gurobi  
+**MLOps & cloud:** AWS SageMaker · Databricks · Airflow · MLflow · Docker · CI/CD · Azure  
+**Generative AI:** AWS Bedrock · OpenSearch Serverless · RAG · LLM fine-tuning · Evaluation
+
+## Background
+
+Previously built forecasting, fraud-detection, and customer-segmentation systems at **Sophatel**; worked on LLM fine-tuning and multimodal research at **Maharishi International University**; and led technical quality review for RLHF and post-training evaluation through **HireArt / Scale AI**.
+
+**AWS Certified Machine Learning – Specialty** · MSc, Computer and Data Science
+
+---
+
+Interested in **ML engineering, forecasting infrastructure, MLOps, and applied AI systems**? [Let's connect.](https://www.linkedin.com/in/salah-ad/)
