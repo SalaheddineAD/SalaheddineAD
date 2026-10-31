@@ -8,7 +8,7 @@
 </h1>
 
 
-<h3 align="center">Full-Stack Data Scientist driving multimillion-dollar impacts</h3>
+<h3 align="center">Principal Machine Learning Engineer driving multimillion-dollar impacts</h3>
 <div align = "center">
   <p>
   I currently work as a Senior Machine Learning engineer consultant at Toyota.
